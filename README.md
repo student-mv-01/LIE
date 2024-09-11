@@ -1,5 +1,8 @@
 # LIE
-> List item extractor
+> Largest Integer Extractor
+Or
+> List Item Extractor
+![Both is good](https://i.imgflip.com/3yoovk.png?a478920)
 
 A program that print the largest int in a list
 In a dict it only look at the keys.
