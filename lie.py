@@ -13,7 +13,6 @@ def largest_item():
     # Load values from arguments if provided
     if (sys.argv and len(sys.argv) > 1):
             # Convert convert the first argument string to an array if it contains "," character.
-            print(sys.argv)
             # If is a sort of list
             if "," in sys.argv[1]:
                 notes=str(sys.argv[1]).strip("[](){}abcdefghijklmnopqrstuvABCDEFGHIJKLMNOPQRS!@#$%^&*()_+").split(',')
